@@ -28,3 +28,5 @@ Then lands on Webinar page
 When user on elearnig content
 Then lands on elearning content page
 And close the browser
+
+
